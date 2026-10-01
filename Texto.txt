@@ -1,1 +1,2 @@
-hola mundo 
+hola mundo, esto es un saludo
+adios mundo, esto es una despedida
